@@ -10,70 +10,70 @@ colour: 1
 fundCostMultiplier: 255
 id: 0
 layout:
-- - - 0
+- - - -1
     - -1
     - -1
     - -1
     - -1
-    - -1
-    - -1
-    - 1
-  - - -1
-    - 0
-    - -1
-    - -1
-    - -1
-    - -1
-    - 1
-    - -1
-  - - -1
-    - -1
-    - 0
-    - -1
-    - -1
-    - 1
-    - -1
-    - -1
-  - - -1
-    - -1
-    - -1
-    - 0
-    - 1
     - -1
     - -1
     - -1
   - - -1
     - -1
     - -1
-    - 1
-    - 0
+    - -1
+    - -1
     - -1
     - -1
     - -1
   - - -1
     - -1
-    - 1
     - -1
     - -1
-    - 0
+    - -1
+    - -1
     - -1
     - -1
   - - -1
-    - 1
-    - -1
-    - -1
-    - -1
-    - -1
-    - 0
-    - -1
-  - - 1
     - -1
     - -1
     - -1
     - -1
     - -1
     - -1
-    - 0
+    - -1
+  - - -1
+    - -1
+    - -1
+    - -1
+    - -1
+    - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
+    - -1
+    - -1
+    - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
+    - -1
+    - -1
+    - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
+    - -1
+    - -1
+    - -1
+    - -1
+    - 2
 name: Intercontinental Passenger Airport
 placement: near-town
 probabilityInGame: 1
@@ -104,6 +104,17 @@ tiles:
     drawType: recolour
     sprite:
       filename: industries/intercontinental-passenger-airport/3.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/intercontinental-passenger-airport/23.png
       left: -31
       top: 0
 type: primary
