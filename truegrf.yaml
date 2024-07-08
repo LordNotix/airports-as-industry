@@ -1,4 +1,6 @@
-description: A new TrueGRF project
+description: Adding Airports as an Industry to the Game
 license: CC0-1.0
+name: Airports as Industry
 type: industry
+url: https://github.com/LordNotix/airports-as-industry/
 version: 6
